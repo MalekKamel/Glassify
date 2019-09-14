@@ -39,7 +39,6 @@ class FaceARFragment : ArFragment() {
         return layout
     }
 
-
     override fun getAdditionalPermissions(): Array<String> {
         val additionalPermissions = super.getAdditionalPermissions()
         val permissionLength = additionalPermissions?.size ?: 0
