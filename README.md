@@ -3,12 +3,16 @@ An Android example for using [ARCore](https://developers.google.com/ar/) & [Scen
 
 <img src="https://github.com/ShabanKamell/Glassify/blob/master/blob/master/raw/Baraa.jpg" height="300"> <img src="https://github.com/ShabanKamell/Glassify/blob/master/blob/master/raw/Me.png" height="300">
 
-Features:
+### Features:
  - [ ] Change AR model at runtime
  - [ ] Scale AR model
  - [ ] Take AR photo
  
- ### License
+### Resources
+https://poly.google.com/view/0Wsi-ygmiIX
+https://poly.google.com/view/dCm3NXrMtSr
+
+### License
 
 ```
 Licensed under the Apache License, Version 2.0 (the "License");
