@@ -1,5 +1,5 @@
 # Glassify
-An example for using Android ARCore augmented facecs.
+An Android example for using [ARCore](https://developers.google.com/ar/) & [Sceneform](https://developers.google.com/ar/develop/java/sceneform/).
 
 <img src="https://github.com/ShabanKamell/Glassify/blob/master/blob/master/raw/Baraa.jpg" height="300"> <img src="https://github.com/ShabanKamell/Glassify/blob/master/blob/master/raw/Me.png" height="300">
 
