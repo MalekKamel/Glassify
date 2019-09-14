@@ -1,6 +1,9 @@
 # Glassify
 An example for using Android ARCore augmented facecs.
 
+<img src="https://github.com/ShabanKamell/Glassify/blob//master/raw/Baraa.png" height="500">
+<img src="https://github.com/ShabanKamell/Glassify/blob/master/raw/Me.png" height="500">
+
 Features:
  - [ ] Change AR model at runtime
  - [ ] Scale AR model
