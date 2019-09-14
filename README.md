@@ -1,5 +1,5 @@
 # Glassify
-An Android example for using [ARCore](https://developers.google.com/ar/) & [Sceneform](https://developers.google.com/ar/develop/java/sceneform/).
+An Android example for using [ARCore](https://developers.google.com/ar/) & [Sceneform](https://developers.google.com/ar/develop/java/sceneform/). The app lets the user try eye glasses using augmented faces.
 
 <img src="https://github.com/ShabanKamell/Glassify/blob/master/blob/master/raw/Baraa.jpg" height="300"> <img src="https://github.com/ShabanKamell/Glassify/blob/master/blob/master/raw/Me.png" height="300">
 
