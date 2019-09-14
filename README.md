@@ -8,10 +8,6 @@ An Android example for using [ARCore](https://developers.google.com/ar/) & [Scen
  - [ ] Scale AR model
  - [ ] Take AR photo
  
-### Resources
-https://poly.google.com/view/0Wsi-ygmiIX
-
-<img src="https://poly.google.com/view/dCm3NXrMtSr" height="300">
 ### License
 
 ```
