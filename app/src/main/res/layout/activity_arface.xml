@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <fragment
+            android:id="@+id/face_fragment"
+            android:name="com.sha.glassify.FaceARFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="bottom"
+            >
+
+        <SeekBar
+                android:id="@+id/seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="32dp"
+                android:max="30"
+                />
+
+        <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp"/>
+
+        <LinearLayout
+                android:id="@+id/gallery_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="20dp"
+                >
+
+            <Space
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"/>
+
+            <ImageView
+                    android:id="@+id/ivWhiteGlasses"
+                    android:layout_width="100dp"
+                    android:layout_height="70dp"
+                    android:src="@drawable/ic_glasses_white"
+                    android:background="#17FFFFFF"
+                    />
+
+            <Space
+                    android:layout_width="20dp"
+                    android:layout_height="match_parent"/>
+
+            <ImageView
+                    android:id="@+id/ivBlackGlasses"
+                    android:src="@drawable/ic_glasses_black"
+                    android:layout_width="100dp"
+                    android:layout_height="70dp"
+                    android:background="#17FFFFFF"
+                    />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="20dp"
+            app:srcCompat="@android:drawable/ic_menu_camera" />
+
+
+</FrameLayout>
