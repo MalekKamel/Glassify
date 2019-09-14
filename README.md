@@ -10,8 +10,8 @@ An Android example for using [ARCore](https://developers.google.com/ar/) & [Scen
  
 ### Resources
 https://poly.google.com/view/0Wsi-ygmiIX
-https://poly.google.com/view/dCm3NXrMtSr
 
+<img src="https://poly.google.com/view/dCm3NXrMtSr" height="300">
 ### License
 
 ```
